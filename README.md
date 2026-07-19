@@ -34,4 +34,4 @@ teaches you more than watching ever will.
 Questions or stuck on something? Drop a comment on the episode, I read them.
 
 Sourav
-[souravailabs.ai](https://souravailabs.ai) · [YouTube](https://www.youtube.com/@souravailabs)
+[souravailabs.ai](https://souravailabs.ai) · [YouTube](https://www.youtube.com/@souravailabs) · [LinkedIn](https://www.linkedin.com/in/srv-sngh)
