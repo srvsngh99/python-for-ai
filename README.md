@@ -1,36 +1,37 @@
 # Python, explained simply
 
-Code from the [Sourav AI Labs](https://souravailabs.ai) YouTube series
-[Python, explained simply](https://www.youtube.com/playlist?list=PLuahdXdIiicgq1f6LicnqNUlyhPaw8xjm):
-one simple idea per video, built for anyone picking up Python. Total beginners welcome.
+I make short Python videos: one idea per video, under two minutes, no jargon.
+This repo has the code from each episode. Watch the video, then type the file
+yourself and run it. Every episode ends with a small dare, like "make the mess
+worse and run it again". The dares work better if you actually do them.
 
-Every episode ends with a "try it yourself" step. This repo is that step:
-the exact file from each episode, ready to run.
+Playlist: [Python, explained simply](https://www.youtube.com/playlist?list=PLuahdXdIiicgq1f6LicnqNUlyhPaw8xjm)
 
 ## Episodes
 
 | # | Topic | Watch | Code |
 |---|-------|-------|------|
-| 01 | What is a variable? | [Watch](https://youtu.be/Ddomxv2icsw) | [`variable.py`](01-variables/variable.py) |
-| 02 | F-strings: one template, every name | [Watch](https://youtu.be/PMzBG6VjmXE) | [`prompt.py`](02-f-strings/prompt.py) |
-| 03 | String methods: the login that fails | [Watch](https://youtu.be/pwJAIgAZgQ4) | [`clean.py`](03-string-methods/clean.py) |
+| 01 | What is a variable? | [watch](https://youtu.be/Ddomxv2icsw) | [`variable.py`](01-variables/variable.py) |
+| 02 | F-strings, one template for every name | [watch](https://youtu.be/PMzBG6VjmXE) | [`prompt.py`](02-f-strings/prompt.py) |
+| 03 | String methods, the login that fails | [watch](https://youtu.be/pwJAIgAZgQ4) | [`clean.py`](03-string-methods/clean.py) |
 
-New episode every morning, 8 AM IST. This table grows with the series.
+New episode most mornings at 8 IST. The table grows as the series does.
 
-## How to run
+## Running the code
 
-1. Install Python from [python.org](https://www.python.org/downloads/) (any recent version).
-2. Download or clone this repo.
-3. In a terminal, from the episode folder:
+You need Python installed, that's it. Get it from
+[python.org](https://www.python.org/downloads/) if you don't have it.
+
+From inside an episode folder:
 
 ```
 python variable.py
 ```
 
-Then do what the episode says: change something, run it again, see what happens.
-That loop is the whole game.
+Change something in the file. Run it again. See what happens. That loop
+teaches you more than watching ever will.
 
-## Links
+Questions or stuck on something? Drop a comment on the episode, I read them.
 
-- YouTube: [Sourav AI Labs](https://www.youtube.com/@souravailabs)
-- Site: [souravailabs.ai](https://souravailabs.ai)
+Sourav
+[souravailabs.ai](https://souravailabs.ai) · [YouTube](https://www.youtube.com/@souravailabs)
