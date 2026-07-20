@@ -1,7 +1,9 @@
 # Python, explained simply
 
 I make short Python videos: one idea per video, under two minutes, no jargon.
-This repo has the code from each episode. Watch the video, then type the file
+This series is the foundation phase of my LLM path. If you want to build with
+LLMs and AI, this is the Python you need first, and this repo has the code
+from each episode. Watch the video, then type the file
 yourself and run it. Every episode ends with a small dare, like "make the mess
 worse and run it again". The dares work better if you actually do them.
 
