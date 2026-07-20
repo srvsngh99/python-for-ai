@@ -1,4 +1,4 @@
-# Python, explained simply
+# Python for AI, explained simply
 
 I make short Python videos: one idea per video, under two minutes, no jargon.
 This series is the foundation phase of my LLM path. If you want to build with
@@ -7,7 +7,7 @@ from each episode. Watch the video, then type the file
 yourself and run it. Every episode ends with a small dare, like "make the mess
 worse and run it again". The dares work better if you actually do them.
 
-Playlist: [Python, explained simply](https://www.youtube.com/playlist?list=PLuahdXdIiicgq1f6LicnqNUlyhPaw8xjm)
+Playlist: [Python for AI, explained simply](https://www.youtube.com/playlist?list=PLuahdXdIiicgq1f6LicnqNUlyhPaw8xjm)
 
 ## Episodes
 
