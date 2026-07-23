@@ -16,6 +16,7 @@ Playlist: [Python for AI, explained simply](https://www.youtube.com/playlist?lis
 | 01 | What is a variable? | [watch](https://youtu.be/Ddomxv2icsw) | [`variable.py`](01-variables/variable.py) |
 | 02 | F-strings, one template for every name | [watch](https://youtu.be/PMzBG6VjmXE) | [`prompt.py`](02-f-strings/prompt.py) |
 | 03 | String methods, the login that fails | [watch](https://youtu.be/pwJAIgAZgQ4) | [`clean.py`](03-string-methods/clean.py) |
+| 04 | Numbers and math, the scoreboard that says 23 | [watch](https://youtu.be/XCULa062aJg) | [`score.py`](04-numbers-and-math/score.py) |
 
 New episode most mornings at 8 IST. The table grows as the series does.
 
