@@ -15,10 +15,10 @@ Playlist: [Python for AI, explained simply](https://www.youtube.com/playlist?lis
 |---|-------|-------|------|
 | 01 | What is a variable? | [watch](https://youtu.be/Ddomxv2icsw) | [`variable.py`](01-variables/variable.py) |
 | 02 | F-strings, one template for every name | [watch](https://youtu.be/PMzBG6VjmXE) | [`prompt.py`](02-f-strings/prompt.py) |
-| 03 | String methods, the login that fails | [watch](https://youtu.be/pwJAIgAZgQ4) | [`clean.py`](03-string-methods/clean.py) |
+| 03 | String methods, the login that fails | [watch](https://youtu.be/oyjmUmylKlw) | [`clean.py`](03-string-methods/clean.py) |
 | 04 | Numbers and math, the scoreboard that says 23 | [watch](https://youtu.be/XCULa062aJg) | [`score.py`](04-numbers-and-math/score.py) |
 | 05 | input(), your program asks a question | [watch](https://youtu.be/I-67sJnvf5c) | [`party.py`](05-input/party.py) |
-| 06 | Booleans and comparisons | coming soon | [`check.py`](06-booleans-and-comparisons/check.py) |
+| 06 | Booleans and comparisons, = puts and == asks | [watch](https://youtu.be/w0Dq8cTRdqs) | [`check.py`](06-booleans-and-comparisons/check.py) |
 
 New episode most mornings at 8 IST. The table grows as the series does.
 
