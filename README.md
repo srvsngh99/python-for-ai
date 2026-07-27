@@ -19,7 +19,7 @@ Playlist: [Python for AI, explained simply](https://www.youtube.com/playlist?lis
 | 04 | Numbers and math, the scoreboard that says 23 | [watch](https://youtu.be/XCULa062aJg) | [`score.py`](04-numbers-and-math/score.py) |
 | 05 | input(), your program asks a question | [watch](https://youtu.be/I-67sJnvf5c) | [`party.py`](05-input/party.py) |
 | 06 | Booleans and comparisons, = puts and == asks | [watch](https://youtu.be/w0Dq8cTRdqs) | [`check.py`](06-booleans-and-comparisons/check.py) |
-| 07 | Lists, one name for a whole row | coming soon | [`guests.py`](07-lists/guests.py) |
+| 07 | Lists, one name for a whole row | [watch](https://youtu.be/rMVC-Phtp8E) | [`guests.py`](07-lists/guests.py) |
 | 08 | Slicing, grab a piece by position | coming soon | [`pieces.py`](08-slicing/pieces.py) |
 
 New episode most mornings at 8 IST. The table grows as the series does.
