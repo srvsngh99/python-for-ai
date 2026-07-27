@@ -1,4 +1,4 @@
-guests = ["Arjun", "Rohan", "Meera"]
+guests = ["Arjun", "Meera", "Rohan"]
 print(guests[0])
-guests.append("Dan")
+guests.append("Kabir")
 print(len(guests))
