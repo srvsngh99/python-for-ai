@@ -21,6 +21,7 @@ Playlist: [Python for AI, explained simply](https://www.youtube.com/playlist?lis
 | 06 | Booleans and comparisons, = puts and == asks | [watch](https://youtu.be/w0Dq8cTRdqs) | [`check.py`](06-booleans-and-comparisons/check.py) |
 | 07 | Lists, one name for a whole row | [watch](https://youtu.be/rMVC-Phtp8E) | [`guests.py`](07-lists/guests.py) |
 | 08 | Slicing, grab a piece by position | [watch](https://youtu.be/gkZe5Bru2Fk) | [`pieces.py`](08-slicing/pieces.py) |
+| 09 | Negative positions, count from the end | coming soon | [`ends.py`](09-negative-positions/ends.py) |
 
 New episode most mornings at 8 IST. The table grows as the series does.
 
