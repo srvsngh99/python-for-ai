@@ -22,6 +22,7 @@ Playlist: [Python for AI, explained simply](https://www.youtube.com/playlist?lis
 | 07 | Lists, one name for a whole row | [watch](https://youtu.be/rMVC-Phtp8E) | [`guests.py`](07-lists/guests.py) |
 | 08 | Slicing, grab a piece by position | [watch](https://youtu.be/gkZe5Bru2Fk) | [`pieces.py`](08-slicing/pieces.py) |
 | 09 | Negative positions, count from the end | [watch](https://youtu.be/9dxEWJ2ZgSc) | [`ends.py`](09-negative-positions/ends.py) |
+| 10 | Slice shortcuts, leave a number out | coming soon | [`shortcuts.py`](10-slice-shortcuts/shortcuts.py) |
 
 New episode most mornings at 8 IST. The table grows as the series does.
 
