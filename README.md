@@ -24,7 +24,7 @@ Playlist: [Python for AI, explained simply](https://www.youtube.com/playlist?lis
 | 09 | Negative positions, count from the end | [watch](https://youtu.be/9dxEWJ2ZgSc) | [`ends.py`](09-negative-positions/ends.py) |
 | 10 | Slice shortcuts, leave a number out | [watch](https://youtu.be/8gXYbtFBOwg) | [`shortcuts.py`](10-slice-shortcuts/shortcuts.py) |
 | 11 | Split and join, one string into a row and back | [watch](https://youtu.be/0trrl1c67OI) | [`guest_list.py`](11-split-and-join/guest_list.py) |
-| 12 | Floor division and modulo, where the remainder goes | coming soon | [`prompts.py`](12-floor-division-and-modulo/prompts.py) |
+| 12 | Floor division and modulo, where the remainder goes | [watch](https://youtu.be/J9v56zrBrZ8) | [`prompts.py`](12-floor-division-and-modulo/prompts.py) |
 
 New episode most mornings at 8 IST. The table grows as the series does.
 
