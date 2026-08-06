@@ -23,7 +23,7 @@ Playlist: [Python for AI, explained simply](https://www.youtube.com/playlist?lis
 | 08 | Slicing, grab a piece by position | [watch](https://youtu.be/gkZe5Bru2Fk) | [`pieces.py`](08-slicing/pieces.py) |
 | 09 | Negative positions, count from the end | [watch](https://youtu.be/9dxEWJ2ZgSc) | [`ends.py`](09-negative-positions/ends.py) |
 | 10 | Slice shortcuts, leave a number out | [watch](https://youtu.be/8gXYbtFBOwg) | [`shortcuts.py`](10-slice-shortcuts/shortcuts.py) |
-| 11 | Split and join, one string into a row and back | coming soon | [`guest_list.py`](11-split-and-join/guest_list.py) |
+| 11 | Split and join, one string into a row and back | [watch](https://youtu.be/0trrl1c67OI) | [`guest_list.py`](11-split-and-join/guest_list.py) |
 
 New episode most mornings at 8 IST. The table grows as the series does.
 
